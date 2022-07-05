@@ -1,0 +1,39 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.donation-head {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.929), rgba(0, 0, 0, 0.181)), url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    height: 500px;
+    display: flex;
+
+}
+
+.donation-main {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.donation-main h1 {
+    color: #fff;
+    font-size: 55px;
+    margin: 0;
+}
+
+.donation-main p {
+    color: #fff;
+}
+
+.btn-link {
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 25px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    font-weight: 600;
+}
