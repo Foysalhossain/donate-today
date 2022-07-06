@@ -191,3 +191,52 @@ body {
 .speech {
     color: #777;
 }
+
+.my-updates {
+    text-align: center;
+    margin: 100px auto 50px;
+    width: 50%;
+}
+
+.my-updates h2 {
+    font-size: 45px;
+}
+
+.my-updates p {
+    font-size: 18px;
+    padding: 0 15%;
+    line-height: 1.6;
+}
+
+.email-area {
+    margin: 100px auto;
+}
+
+.email-box {
+    margin: 20px auto 20px;
+    width: 50%;
+    padding: 80px;
+    background-color: #FFF4D6;
+    text-align: center;
+}
+
+.email-box input {
+    width: 30%;
+    padding: 15px 30px;
+    border: 0px solid;
+    background-color: #D9D9D9;
+}
+
+.email-box input:focus {
+    outline: none;
+}
+
+.email-box a {
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 25px;
+    background-color: #FF5959;
+    border-radius: 0 5px 5px 0;
+    font-weight: 600;
+    margin-left: -5px;
+}
