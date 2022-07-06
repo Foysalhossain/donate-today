@@ -240,3 +240,20 @@ body {
     font-weight: 600;
     margin-left: -5px;
 }
+
+footer {
+    background-color: #000;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+}
+
+footer h2 {
+    color: #FF5959;
+    font-family: Pacifico;
+}
+
+footer p {
+    color: #fff;
+    font-size: 14px;
+}
