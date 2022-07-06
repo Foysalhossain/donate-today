@@ -109,7 +109,6 @@ body {
 .main-plan {
     margin: 200px auto 50px;
     width: 50%;
-    margin: auto;
     text-align: center;
 }
 
@@ -151,4 +150,20 @@ body {
 
 #box-3 {
     background-color: #fff4d6c4;
+}
+
+.ts-head {
+    text-align: center;
+    margin: 100px auto 20px;
+    width: 50%;
+}
+
+.ts-head h2 {
+    font-size: 45px;
+}
+
+.ts-head p {
+    font-size: 18px;
+    padding: 0 15%;
+    line-height: 1.6;
 }
