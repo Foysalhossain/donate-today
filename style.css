@@ -85,3 +85,23 @@ body {
 #box-select h3 {
     color: #FF5959;
 }
+
+.input-box input {
+    border: 0px solid;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+}
+
+.input-box input:focus {
+    outline: none;
+}
+
+::placeholder {
+    color: #B3B3B3;
+}
+
+#donate-btn {
+    margin: 30px 0;
+}
